@@ -1,0 +1,8 @@
+{
+  "name": "Discord Multi-Account Auto Poster",
+  "description": "Multi-account Discord auto poster controller with individual account cards, isolated settings, channel intervals, webhook logs, and independent start/stop controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

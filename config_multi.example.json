@@ -1,0 +1,29 @@
+{
+  "accounts": [
+    {
+      "id": "acc_1",
+      "name": "Account 1",
+      "token": "",
+      "useWebhook": false,
+      "webhookUrl": "",
+      "isRunning": false,
+      "channels": [
+        {
+          "id": "ch_1",
+          "channelId": "",
+          "channelName": "Channel #1",
+          "message": "",
+          "hours": 0,
+          "minutes": 2,
+          "seconds": 0,
+          "interval": 120,
+          "enabled": true
+        }
+      ],
+      "stats": {
+        "sentCount": 0,
+        "failedCount": 0
+      }
+    }
+  ]
+}
